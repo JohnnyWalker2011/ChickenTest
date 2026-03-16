@@ -1,0 +1,2 @@
+megacorpone
+AWS_SECRET_KEY="sk-37372h83j9fj93jfjj30jf03jjiejofekfoefoeojfej"
